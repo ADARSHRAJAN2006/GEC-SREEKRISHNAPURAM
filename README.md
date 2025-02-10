@@ -14,6 +14,7 @@ Technical Education (AICTE) and is affiliated with the APJ Abdul Kalam Technolog
 GEC Palakkad offers a range of undergraduate and postgraduate programs:
 
 Undergraduate (B.Tech) Programs:
+
 <sub>Computer Science and Engineering</sub>
 
 <sub>Electronics and Communication Engineering</sub>

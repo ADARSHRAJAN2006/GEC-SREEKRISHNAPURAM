@@ -22,7 +22,7 @@ Electrical and Electronics Engineering
 Civil Engineering
 
 
-<ins>**Campus Facilities**</ins>
+<ins>**CAMPUS FACILITIES**</ins>
 
 
 The college campus spans 33 acres and is equipped with modern facilities to support academic and extracurricular activities:
